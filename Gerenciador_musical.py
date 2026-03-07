@@ -1,7 +1,9 @@
 import time
 import sys
 import pygame
+import os
 offset_ms = 0
+coontador = 0
 def type_print(text, delay=0.03):
     for ch in text:
         sys.stdout.write(ch)
@@ -32,6 +34,7 @@ with open('A man without love.txt', 'r', encoding='utf-8') as arquivo:
         end_ms = int(end_s * 1000)
 
         text = linha[11:].strip()
+        os.system('cls')
         entries.append({'start_ms': start_ms, 'end_ms': end_ms, 'text': text})
 
 entries.sort(key=lambda e: e['start_ms'])
