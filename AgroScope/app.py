@@ -25,7 +25,7 @@ def main():
             df_work['longitude'] = pd.to_numeric(df_work['longitude'], errors='coerce')
             df_work['indice_vigor'] = pd.to_numeric(df_work['indice_vigor'], errors='coerce')
             df_valid = df_work[['latitude', 'longitude', 'indice_vigor']].dropna()
-            
+            AgroScope/app.py
             if not df_valid.empty:
                 # Create Folium map with heatmap
                 m = folium.Map(location=[df_valid['latitude'].mean(), df_valid['longitude'].mean()], zoom_start=6)
