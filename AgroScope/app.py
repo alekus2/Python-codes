@@ -19,7 +19,7 @@ def main():
         except Exception as e:
             st.error(f"Erro ao ler o arquivo: {e}")
         try:
-            st.write("Mapa de Calor de Vigor (indice_vigor):")
+            st.write("Mapa de Calor:")
             df_work = df.copy()
             df_work['latitude'] = pd.to_numeric(df_work['latitude'], errors='coerce')
             df_work['longitude'] = pd.to_numeric(df_work['longitude'], errors='coerce')
@@ -32,7 +32,7 @@ def main():
                 HeatMap(heat_data, min_opacity=0.4, radius=15, blur=10, gradient={0.2: 'red', 0.5: 'yellow', 0.8: 'limegreen'}).add_to(m)
                 st_folium(m, width=700, height=500)
             else:
-                st.warning("No valid lat/lon/vigor data for heatmap.")
+                st.warning("Não há dados válidos para o mapa de calor.")
         except Exception as e:
             st.error(f"Erro no mapa de calor: {e}")
 if __name__ == "__main__":
