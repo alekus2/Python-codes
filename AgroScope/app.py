@@ -27,12 +27,9 @@ def main():
             df_valid = df_work[['latitude', 'longitude', 'indice_vigor']].dropna()
             
             if not df_valid.empty:
-                # Create Folium map with heatmap
                 m = folium.Map(location=[df_valid['latitude'].mean(), df_valid['longitude'].mean()], zoom_start=6)
-                # Heatmap data
                 heat_data = [[row['latitude'], row['longitude'], row['indice_vigor']] for _, row in df_valid.iterrows()]
                 HeatMap(heat_data, min_opacity=0.4, radius=15, blur=10, gradient={0.2: 'red', 0.5: 'yellow', 0.8: 'limegreen'}).add_to(m)
-                # Render with st_folium
                 st_folium(m, width=700, height=500)
             else:
                 st.warning("No valid lat/lon/vigor data for heatmap.")
