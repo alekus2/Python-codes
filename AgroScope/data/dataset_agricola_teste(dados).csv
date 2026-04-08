@@ -1,0 +1,31 @@
+Index;fazenda;data_plantio;cidade;talhao;genetica;estagio;area_ha;manejo;chuva_mm;umidade_relativa_pct;vento_km_h;falhas_pct;sobrevivencia_pct;indice_vigor;latitude;longitude
+6661023-01;Fazenda Alfa;2025-01-08;Dourados;T023;Eucalipto;Emergência;99,59;Convencional;96,7;74;11,5;9;79,4;0,72;-22.197;-54.823
+6661017-01;Fazenda Alfa;2025-01-08;Dourados;T017;Eucalipto;Desenvolvimento médio;38,3;Convencional;149,8;53;7,9;1,5;88,2;0,81;-22.203;-54.817
+6661033-01;Fazenda Alfa;2025-01-10;Campo Grande;T033;Eucalipto;Plantio;47,76;Plantio direto;129,1;83;5,8;0,1;98,7;0,68;-20.427;-54.653
+6661016-01;Fazenda Alfa;2025-01-21;Rondonópolis;T016;Eucalipto;Desenvolvimento inicial;76,41;Plantio direto;45,8;65;9;5,8;83,7;0,67;-16.454;-54.646
+6661026-01;Fazenda Alfa;2025-01-23;Rondonópolis;T026;Eucalipto;Plantio;42,32;Plantio direto;29,8;75;14,7;7;79,6;0,61;-16.444;-54.656
+6661009-01;Fazenda Alfa;2025-01-23;Ariquemes;T009;Eucalipto;Colheita;106,84;Plantio direto;0;76;1,5;6;81,5;0,74;-9.901;-63.049
+6661026-01;Fazenda Alfa;2025-02-01;Três Lagoas;T026;Eucalipto;Emergência;52,63;Plantio direto;179,9;66;7,4;6,7;85,9;0,72;-20.724;-51.726
+6661004-01;Fazenda Alfa;2025-02-08;Campo Grande;T004;Eucalipto;Emergência;56,16;Plantio direto;107,6;67;2,5;2,5;93,2;0,84;-20.456;-54.624
+6661032-01;Fazenda Alfa;2025-02-12;Rondonópolis;T032;Eucalipto;Colheita;26,06;Convencional;103,8;92;10,7;8,4;79,2;0,59;-16.438;-54.662
+6661011-01;Fazenda Alfa;2025-02-24;Rondonópolis;T011;Eucalipto;Desenvolvimento médio;28,88;Mecanizado;111,3;58;5,7;10,3;72,2;0,64;-16.459;-54.641
+6661030-01;Fazenda Alfa;2025-02-28;Campo Grande;T030;Eucalipto;Desenvolvimento inicial;105,23;Semi-mecanizado;125,1;67;16;8,3;76,9;0,67;-20.430;-54.650
+6661038-01;Fazenda Alfa;2025-03-05;Rondonópolis;T038;Eucalipto;Desenvolvimento inicial;41,88;Semi-mecanizado;63,9;72;9,5;6,6;87,1;0,67;-16.432;-54.668
+6661012-01;Fazenda Alfa;2025-03-08;Campo Grande;T012;Eucalipto;Desenvolvimento médio;118,06;Convencional;37,8;68;12,2;2,4;93,3;0,67;-20.448;-54.632
+6661020-01;Fazenda Alfa;2025-03-10;Rondonópolis;T020;Eucalipto;Desenvolvimento médio;80,82;Mecanizado;65,2;83;7,4;6,3;80,7;0,74;-16.450;-54.650
+6661037-01;Fazenda Alfa;2025-03-18;Três Lagoas;T037;Eucalipto;Plantio;80,99;Plantio direto;147,3;75;8,9;8,9;75,8;0,63;-20.713;-51.737
+6661015-01;Fazenda Alfa;2025-03-19;Rondonópolis;T015;Eucalipto;Plantio;30,98;Plantio direto;236,3;87;0;5,5;86,4;0,76;-16.455;-54.645
+6661029-01;Fazenda Alfa;2025-03-22;Rondonópolis;T029;Eucalipto;Emergência;66,39;Semi-mecanizado;92,9;81;9,6;9,8;74,8;0,53;-16.441;-54.659
+6661027-01;Fazenda Alfa;2025-03-27;Rondonópolis;T027;Eucalipto;Desenvolvimento médio;78,44;Plantio direto;114,9;59;12,1;11,1;78;0,59;-16.443;-54.657
+6661017-01;Fazenda Alfa;2025-04-02;Ariquemes;T017;Eucalipto;Desenvolvimento inicial;21,16;Plantio direto;109,5;82;17,5;6,7;86,2;0,68;-9.893;-63.057
+6661013-01;Fazenda Alfa;2025-04-09;Campo Grande;T013;Eucalipto;Desenvolvimento médio;105,41;Convencional;88,1;56;8,7;0,2;98,9;0,93;-20.447;-54.633
+6661029-01;Fazenda Alfa;2025-04-12;Dourados;T029;Eucalipto;Plantio;77,82;Mecanizado;81,3;39;10,2;3,2;90;0,9;-22.191;-54.829
+6661009-01;Fazenda Alfa;2025-04-24;Dourados;T009;Eucalipto;Plantio;37;Mecanizado;74,8;98;13,4;7;79,4;0,67;-22.211;-54.809
+6661009-01;Fazenda Alfa;2025-04-25;Dourados;T009;Eucalipto;Plantio;27,58;Plantio direto;25,8;81;11,6;11;71,6;0,51;-22.211;-54.809
+6661033-01;Fazenda Alfa;2025-04-30;Ariquemes;T033;Eucalipto;Colheita;40,72;Plantio direto;56,3;59;11,1;10,3;76,2;0,56;-9.877;-63.073
+6661039-01;Fazenda Alfa;2025-04-30;Dourados;T039;Eucalipto;Plantio;57,93;Semi-mecanizado;99,4;69;6;8,2;82;0,66;-22.181;-54.839
+6661013-01;Fazenda Alfa;2025-05-07;Campo Grande;T013;Eucalipto;Emergência;82,33;Plantio direto;100,2;76;3,7;7,5;82,5;0,65;-20.447;-54.633
+6661034-01;Fazenda Alfa;2025-05-07;Três Lagoas;T034;Eucalipto;Desenvolvimento médio;36,89;Semi-mecanizado;119,6;81;3;13,1;71,9;0,56;-20.716;-51.734
+6661025-01;Fazenda Alfa;2025-05-08;Rondonópolis;T025;Eucalipto;Emergência;59,02;Convencional;0;86;16,7;4;88,2;0,7;-16.445;-54.655
+6661015-01;Fazenda Alfa;2025-05-12;Rondonópolis;T015;Eucalipto;Desenvolvimento médio;79,59;Mecanizado;138;71;12,6;7,6;85,8;0,71;-16.455;-54.645
+6661038-01;Fazenda Alfa;2025-05-16;Dourados;T038;Eucalipto;Colheita;97,67;Convencional;67,9;71;6,2;10,9;74,2;0,67;-22.182;-54.838
